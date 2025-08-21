@@ -50,6 +50,19 @@
 						<enabled>true</enabled>
 					</snapshots>
 				</repository>
+
+				<repository>
+					<id>coherity-parent-pom-spring-repo</id>
+					<name>coherity-parent-pom-spring-repo</name>
+					<url>https://maven.pkg.github.com/coherityio/parent-pom-spring</url>
+					<releases>
+						<enabled>true</enabled>
+					</releases>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</repository>
+
 			</repositories>
 			
 			<pluginRepositories>
